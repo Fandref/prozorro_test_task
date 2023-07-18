@@ -41,7 +41,7 @@ SETUP
 
 1. Clone project:
     ~~~
-    https://github.com/Fandref/prozorro_test_task.git
+    git clone https://github.com/Fandref/prozorro_test_task.git
     ~~~
 
 1. Install dependencies:
